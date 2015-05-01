@@ -1,0 +1,690 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Admin Press Pro\n"
+"POT-Creation-Date: 2015-04-18 03:05+0600\n"
+"PO-Revision-Date: 2015-04-18 03:06+0600\n"
+"Last-Translator: Tapan Kumer Das <tapan@innovativebd.net>\n"
+"Language-Team: DuoGeek <support@duogeek.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../adminpress.php:596
+msgid "Adminpress Settings"
+msgstr ""
+
+#: ../adminpress.php:611 ../duogeek/duogeek-panel.php:372
+#: ../adminpress-files/modules/class.text.change.php:132
+#: ../adminpress-files/modules/class.menu.style.php:99
+#: ../adminpress-files/modules/class.dashboard.widget.php:151
+#: ../adminpress-files/modules/class.styles.php:308
+#: ../adminpress-files/modules/class.ajax.search.php:53
+#: ../adminpress-files/modules/class.custom.css.php:86
+#: ../adminpress-files/modules/class.footer.text.php:62
+#: ../adminpress-files/modules/class.login.php:181
+#: ../adminpress-files/modules/class.custom.admin.bar.php:186
+#: ../adminpress-files/modules/class.menu.management.php:113
+msgid "Save Settings"
+msgstr ""
+
+#: ../adminpress.php:612
+msgid "Reset All"
+msgstr ""
+
+#: ../adminpress.php:621 ../adminpress.php:627
+msgid "Export Settings"
+msgstr ""
+
+#: ../adminpress.php:624
+msgid ""
+"Export the plugin settings as a .json file. This allows you to easily import "
+"the configuration into another site."
+msgstr ""
+
+#: ../adminpress.php:637 ../adminpress.php:646
+msgid "Import Settings"
+msgstr ""
+
+#: ../adminpress.php:640
+msgid ""
+"Import the plugin settings from a .json file. This file can be obtained by "
+"exporting the settings on another site using the form above."
+msgstr ""
+
+#: ../adminpress.php:656
+msgid "Pro Theme"
+msgstr ""
+
+#: ../adminpress.php:669
+msgid "Set Theme"
+msgstr ""
+
+#: ../adminpress.php:692
+msgid "Quick Links"
+msgstr ""
+
+#: ../adminpress.php:694
+msgid "Add New"
+msgstr ""
+
+#: ../adminpress.php:703
+msgid "Elements"
+msgstr ""
+
+#: ../adminpress.php:711
+msgid "Manage"
+msgstr ""
+
+#: ../adminpress.php:718
+msgid "Close"
+msgstr ""
+
+#: ../app/dg-connection.php:14
+msgid "Plugin License Options for Admin Press"
+msgstr ""
+
+#: ../app/dg-connection.php:23
+msgid "License Key"
+msgstr ""
+
+#: ../app/dg-connection.php:27
+msgid "Enter your license key"
+msgstr ""
+
+#: ../app/dg-connection.php:33 ../app/dg-connection.php:42
+msgid "Activate License"
+msgstr ""
+
+#: ../app/dg-connection.php:37
+msgid "active"
+msgstr ""
+
+#: ../app/dg-connection.php:39
+msgid "Deactivate License"
+msgstr ""
+
+#: ../duogeek/duogeek-panel.php:349
+msgid "DuoGeek Settings"
+msgstr ""
+
+#: ../duogeek/duogeek-panel.php:358
+msgid "General Settings"
+msgstr ""
+
+#: ../duogeek/duogeek-panel.php:362
+msgid "Disable FontAwesome"
+msgstr ""
+
+#: ../duogeek/duogeek-panel.php:363 ../duogeek/duogeek-panel.php:367
+msgid "Check if your theme already provides it"
+msgstr ""
+
+#: ../duogeek/duogeek-panel.php:366
+msgid "Disable Animate"
+msgstr ""
+
+#: ../duogeek/duogeek-panel.php:415
+msgid "Help"
+msgstr ""
+
+#: ../duogeek/duogeek-panel.php:419
+msgid "Click to expand/collapse"
+msgstr ""
+
+#: ../duogeek/duogeek-panel.php:435
+msgid "Source: "
+msgstr ""
+
+#: ../duogeek/duogeek-panel.php:446
+msgid "Code: "
+msgstr ""
+
+#: ../duogeek/duogeek-panel.php:457
+msgid "Example: "
+msgstr ""
+
+#: ../duogeek/duogeek-panel.php:468
+msgid "Default: "
+msgstr ""
+
+#: ../duogeek/duogeek-panel.php:479
+msgid "Description: "
+msgstr ""
+
+#: ../duogeek/duogeek-panel.php:592
+msgid "Support / Report a bug"
+msgstr ""
+
+#: ../duogeek/duogeek-panel.php:601
+msgid "Buy us a coffee"
+msgstr ""
+
+#: ../duogeek/duogeek-panel.php:609
+msgid "Rate us"
+msgstr ""
+
+#: ../duogeek/duogeek-panel.php:626
+msgid "Subscribe to our NewsLetter"
+msgstr ""
+
+#: ../duogeek/duogeek-panel.php:634
+msgid "Join us on facebook"
+msgstr ""
+
+#: ../duogeek/duogeek-panel.php:641
+msgid "Follow us on twitter"
+msgstr ""
+
+#: ../adminpress-files/modules/class.text.change.php:94
+msgid "Text Change"
+msgstr ""
+
+#: ../adminpress-files/modules/class.text.change.php:97
+msgid "Add text for change"
+msgstr ""
+
+#: ../adminpress-files/modules/class.text.change.php:101
+#: ../adminpress-files/modules/class.text.change.php:117
+msgid "Find Text"
+msgstr ""
+
+#: ../adminpress-files/modules/class.text.change.php:106
+msgid "Text Domain (leave blank for global change)"
+msgstr ""
+
+#: ../adminpress-files/modules/class.text.change.php:111
+#: ../adminpress-files/modules/class.text.change.php:119
+msgid "Change to"
+msgstr ""
+
+#: ../adminpress-files/modules/class.text.change.php:118
+msgid "Domain"
+msgstr ""
+
+#: ../adminpress-files/modules/class.text.change.php:120
+msgid "Action"
+msgstr ""
+
+#: ../adminpress-files/modules/class.text.change.php:133
+msgid "Reset Text Change"
+msgstr ""
+
+#: ../adminpress-files/modules/class.menu.style.php:31
+msgid "Menu Style Settings"
+msgstr ""
+
+#: ../adminpress-files/modules/class.menu.style.php:35
+msgid "Menu Panel Background Color"
+msgstr ""
+
+#: ../adminpress-files/modules/class.menu.style.php:39
+msgid "Menu Panel Opacity (between 1 and 10)"
+msgstr ""
+
+#: ../adminpress-files/modules/class.menu.style.php:46
+msgid "Menu Item Hover Background Color"
+msgstr ""
+
+#: ../adminpress-files/modules/class.menu.style.php:50
+msgid "Active Menu Item Background Color"
+msgstr ""
+
+#: ../adminpress-files/modules/class.menu.style.php:57
+msgid "Menu Font Color"
+msgstr ""
+
+#: ../adminpress-files/modules/class.menu.style.php:61
+msgid "Menu Hover Font Color"
+msgstr ""
+
+#: ../adminpress-files/modules/class.menu.style.php:68
+msgid "Active Menu Item Font Color"
+msgstr ""
+
+#: ../adminpress-files/modules/class.menu.style.php:72
+msgid "Submenu Background Color"
+msgstr ""
+
+#: ../adminpress-files/modules/class.menu.style.php:79
+msgid "Sub Menu Font Color"
+msgstr ""
+
+#: ../adminpress-files/modules/class.menu.style.php:83
+msgid "Sub Menu Hover Font Color"
+msgstr ""
+
+#: ../adminpress-files/modules/class.menu.style.php:90
+msgid "Admin Bar Background Color"
+msgstr ""
+
+#: ../adminpress-files/modules/class.menu.style.php:94
+msgid "Admin Bar Hover Background Color"
+msgstr ""
+
+#: ../adminpress-files/modules/class.menu.style.php:100
+msgid "Reset Menu Style"
+msgstr ""
+
+#: ../adminpress-files/modules/class.dashboard.widget.php:104
+msgid "Dashboard Widget"
+msgstr ""
+
+#: ../adminpress-files/modules/class.dashboard.widget.php:107
+msgid "Create new Dashboard Widget"
+msgstr ""
+
+#: ../adminpress-files/modules/class.dashboard.widget.php:118
+msgid "Widget Title"
+msgstr ""
+
+#: ../adminpress-files/modules/class.dashboard.widget.php:123
+msgid "Widget Content - HTML allowed"
+msgstr ""
+
+#: ../adminpress-files/modules/class.dashboard.widget.php:135
+msgid "Created Widgets"
+msgstr ""
+
+#: ../adminpress-files/modules/class.dashboard.widget.php:152
+msgid "Reset Dashboard Widget"
+msgstr ""
+
+#: ../adminpress-files/modules/class.styles.php:81
+msgid "Style Settings"
+msgstr ""
+
+#: ../adminpress-files/modules/class.styles.php:84
+msgid ""
+"Select background image<br>(To use background image, clear the field for "
+"background color)"
+msgstr ""
+
+#: ../adminpress-files/modules/class.styles.php:86
+#: ../adminpress-files/modules/class.login.php:94
+#: ../adminpress-files/modules/class.login.php:111
+msgid "Upload"
+msgstr ""
+
+#: ../adminpress-files/modules/class.styles.php:93
+msgid ""
+"Select background image as encoded value (will take precedence over the "
+"above image)"
+msgstr ""
+
+#: ../adminpress-files/modules/class.styles.php:101
+msgid ""
+"Select Background Color<br>(Background color will take precendence over "
+"background image)"
+msgstr ""
+
+#: ../adminpress-files/modules/class.styles.php:107
+msgid "Primary Button color"
+msgstr ""
+
+#: ../adminpress-files/modules/class.styles.php:111
+msgid "Primary Button Hover color"
+msgstr ""
+
+#: ../adminpress-files/modules/class.styles.php:118
+msgid "Primary Button Font color"
+msgstr ""
+
+#: ../adminpress-files/modules/class.styles.php:122
+msgid "Primary Button Font Hover color"
+msgstr ""
+
+#: ../adminpress-files/modules/class.styles.php:129
+msgid "Secondary Button color"
+msgstr ""
+
+#: ../adminpress-files/modules/class.styles.php:133
+msgid "Secondary Button Hover color"
+msgstr ""
+
+#: ../adminpress-files/modules/class.styles.php:140
+msgid "Secondary Button Font color"
+msgstr ""
+
+#: ../adminpress-files/modules/class.styles.php:144
+msgid "Secondary Button Font Hover color"
+msgstr ""
+
+#: ../adminpress-files/modules/class.styles.php:151
+msgid "Widget Header Background"
+msgstr ""
+
+#: ../adminpress-files/modules/class.styles.php:155
+msgid "Widget Header Font Color"
+msgstr ""
+
+#: ../adminpress-files/modules/class.styles.php:162
+msgid "Widget Background"
+msgstr ""
+
+#: ../adminpress-files/modules/class.styles.php:166
+msgid "Widget Font Color"
+msgstr ""
+
+#: ../adminpress-files/modules/class.styles.php:173
+msgid "Widget Border"
+msgstr ""
+
+#: ../adminpress-files/modules/class.styles.php:179
+msgid "Widget Background Opacity (between 1 and 10)"
+msgstr ""
+
+#: ../adminpress-files/modules/class.styles.php:184
+msgid "Table Header/Footer Background"
+msgstr ""
+
+#: ../adminpress-files/modules/class.styles.php:188
+msgid "Table Header/Footer Font Color"
+msgstr ""
+
+#: ../adminpress-files/modules/class.styles.php:192
+msgid "Table Border Color"
+msgstr ""
+
+#: ../adminpress-files/modules/class.styles.php:199
+msgid "Table Background"
+msgstr ""
+
+#: ../adminpress-files/modules/class.styles.php:203
+msgid "Table Alt Background"
+msgstr ""
+
+#: ../adminpress-files/modules/class.styles.php:207
+msgid "Table Font Color"
+msgstr ""
+
+#: ../adminpress-files/modules/class.styles.php:214
+msgid "Link color"
+msgstr ""
+
+#: ../adminpress-files/modules/class.styles.php:218
+msgid "Link hover color"
+msgstr ""
+
+#: ../adminpress-files/modules/class.styles.php:222
+msgid "Current Link color"
+msgstr ""
+
+#: ../adminpress-files/modules/class.styles.php:229
+msgid "Update Notice Background"
+msgstr ""
+
+#: ../adminpress-files/modules/class.styles.php:233
+msgid "Update Notice Font"
+msgstr ""
+
+#: ../adminpress-files/modules/class.styles.php:237
+msgid "Update Notice Border"
+msgstr ""
+
+#: ../adminpress-files/modules/class.styles.php:244
+msgid "Error Notice Background"
+msgstr ""
+
+#: ../adminpress-files/modules/class.styles.php:248
+msgid "Error Notice Font"
+msgstr ""
+
+#: ../adminpress-files/modules/class.styles.php:252
+msgid "Error Notice Border"
+msgstr ""
+
+#: ../adminpress-files/modules/class.styles.php:259
+msgid "Nag Notice Background"
+msgstr ""
+
+#: ../adminpress-files/modules/class.styles.php:263
+msgid "Nag Notice Font"
+msgstr ""
+
+#: ../adminpress-files/modules/class.styles.php:267
+msgid "Nag Notice Border"
+msgstr ""
+
+#: ../adminpress-files/modules/class.styles.php:273
+msgid "Font Color"
+msgstr ""
+
+#: ../adminpress-files/modules/class.styles.php:278
+msgid "Google Font API"
+msgstr ""
+
+#: ../adminpress-files/modules/class.styles.php:280
+msgid ""
+"This is important! To enable google font you must provide your google font "
+"API"
+msgstr ""
+
+#: ../adminpress-files/modules/class.styles.php:284
+msgid "Select font for heading"
+msgstr ""
+
+#: ../adminpress-files/modules/class.styles.php:286
+#: ../adminpress-files/modules/class.styles.php:296
+msgid "Default Font"
+msgstr ""
+
+#: ../adminpress-files/modules/class.styles.php:294
+msgid "Select font for paragraph"
+msgstr ""
+
+#: ../adminpress-files/modules/class.styles.php:304
+msgid "Body font size"
+msgstr ""
+
+#: ../adminpress-files/modules/class.styles.php:304
+msgid " (in px)"
+msgstr ""
+
+#: ../adminpress-files/modules/class.styles.php:309
+msgid "Reset Style"
+msgstr ""
+
+#: ../adminpress-files/modules/class.ajax.search.php:41
+msgid "Ajax Search"
+msgstr ""
+
+#: ../adminpress-files/modules/class.ajax.search.php:45
+msgid "Enable Ajax Search in Admin"
+msgstr ""
+
+#: ../adminpress-files/modules/class.ajax.search.php:47
+#: ../adminpress-files/modules/class.footer.text.php:58
+#: ../adminpress-files/modules/class.login.php:144
+#: ../adminpress-files/modules/class.login.php:149
+#: ../adminpress-files/modules/class.login.php:154
+msgid "Yes"
+msgstr ""
+
+#: ../adminpress-files/modules/class.ajax.search.php:48
+#: ../adminpress-files/modules/class.footer.text.php:59
+#: ../adminpress-files/modules/class.login.php:145
+#: ../adminpress-files/modules/class.login.php:150
+#: ../adminpress-files/modules/class.login.php:155
+msgid "No"
+msgstr ""
+
+#: ../adminpress-files/modules/class.ajax.search.php:54
+msgid "Reset Ajax Search"
+msgstr ""
+
+#: ../adminpress-files/modules/class.custom.css.php:57
+msgid "Custom CSS and JS"
+msgstr ""
+
+#: ../adminpress-files/modules/class.custom.css.php:61
+msgid "Add CSS for admin pages"
+msgstr ""
+
+#: ../adminpress-files/modules/class.custom.css.php:67
+msgid "Add JS for admin pages"
+msgstr ""
+
+#: ../adminpress-files/modules/class.custom.css.php:73
+msgid "Add CSS for front pages"
+msgstr ""
+
+#: ../adminpress-files/modules/class.custom.css.php:79
+msgid "Add JS for front pages"
+msgstr ""
+
+#: ../adminpress-files/modules/class.custom.css.php:87
+msgid "Reset Custom CSS"
+msgstr ""
+
+#: ../adminpress-files/modules/class.footer.text.php:49
+#: ../adminpress-files/modules/class.footer.text.php:52
+msgid "Footer Text"
+msgstr ""
+
+#: ../adminpress-files/modules/class.footer.text.php:57
+msgid "Hide version in footer"
+msgstr ""
+
+#: ../adminpress-files/modules/class.footer.text.php:63
+msgid "Reset Footer Text"
+msgstr ""
+
+#: ../adminpress-files/modules/class.login.php:89
+msgid "Login Page Settings"
+msgstr ""
+
+#: ../adminpress-files/modules/class.login.php:92
+msgid "Select login logo"
+msgstr ""
+
+#: ../adminpress-files/modules/class.login.php:101
+msgid ""
+"Select login logo as encoded value (will take precedence over the above logo)"
+msgstr ""
+
+#: ../adminpress-files/modules/class.login.php:109
+msgid ""
+"Select Background Image<br> (To use background image, clear the field for "
+"background color)"
+msgstr ""
+
+#: ../adminpress-files/modules/class.login.php:118
+msgid ""
+"Select Background Image as encoded value (will take precedence over the "
+"above logo)"
+msgstr ""
+
+#: ../adminpress-files/modules/class.login.php:126
+msgid ""
+"Select Background Color<br> (Background color will take precendence over "
+"background image)"
+msgstr ""
+
+#: ../adminpress-files/modules/class.login.php:132
+msgid "Select Font Color"
+msgstr ""
+
+#: ../adminpress-files/modules/class.login.php:136
+msgid "Select Form Background Color"
+msgstr ""
+
+#: ../adminpress-files/modules/class.login.php:143
+msgid "Remove Remember Me"
+msgstr ""
+
+#: ../adminpress-files/modules/class.login.php:148
+msgid "Remove Lost Password"
+msgstr ""
+
+#: ../adminpress-files/modules/class.login.php:153
+msgid "Remove Back to... Link"
+msgstr ""
+
+#: ../adminpress-files/modules/class.login.php:160
+msgid "Select login image link URL"
+msgstr ""
+
+#: ../adminpress-files/modules/class.login.php:161
+msgid "Site URL"
+msgstr ""
+
+#: ../adminpress-files/modules/class.login.php:162
+msgid "External URL"
+msgstr ""
+
+#: ../adminpress-files/modules/class.login.php:167
+msgid "Login redirect URL"
+msgstr ""
+
+#: ../adminpress-files/modules/class.login.php:172
+msgid "Logout redirect URL"
+msgstr ""
+
+#: ../adminpress-files/modules/class.login.php:177
+msgid "Add messagae over the login box"
+msgstr ""
+
+#: ../adminpress-files/modules/class.login.php:182
+msgid "Reset Login Page"
+msgstr ""
+
+#: ../adminpress-files/modules/class.custom.admin.bar.php:122
+msgid "Custom Admin Bar"
+msgstr ""
+
+#: ../adminpress-files/modules/class.custom.admin.bar.php:125
+msgid "Remove Wordpress Logo"
+msgstr ""
+
+#: ../adminpress-files/modules/class.custom.admin.bar.php:130
+msgid "Add menu in admin bar"
+msgstr ""
+
+#: ../adminpress-files/modules/class.custom.admin.bar.php:134
+msgid "Menu Name"
+msgstr ""
+
+#: ../adminpress-files/modules/class.custom.admin.bar.php:139
+msgid "Menu Link"
+msgstr ""
+
+#: ../adminpress-files/modules/class.custom.admin.bar.php:145
+msgid "Parent Menu"
+msgstr ""
+
+#: ../adminpress-files/modules/class.custom.admin.bar.php:147
+msgid "Select Parent Menu"
+msgstr ""
+
+#: ../adminpress-files/modules/class.custom.admin.bar.php:161
+msgid "Created menus"
+msgstr ""
+
+#: ../adminpress-files/modules/class.custom.admin.bar.php:187
+msgid "Reset Custom Admin Bar"
+msgstr ""
+
+#: ../adminpress-files/modules/class.menu.management.php:82
+msgid "Menu Management"
+msgstr ""
+
+#: ../adminpress-files/modules/class.menu.management.php:90
+msgid "Manage your menus"
+msgstr ""
+
+#: ../adminpress-files/modules/class.menu.management.php:102
+msgid "Rename Menu"
+msgstr ""
+
+#: ../adminpress-files/modules/class.menu.management.php:103
+msgid "Hide this menu"
+msgstr ""
+
+#: ../adminpress-files/modules/class.menu.management.php:114
+msgid "Reset Menu Management"
+msgstr ""
